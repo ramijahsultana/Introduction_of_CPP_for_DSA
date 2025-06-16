@@ -1,0 +1,7 @@
+6
+sakib 15 75
+rakib 10 85
+akib 20 65
+mira 12 79
+noha 9 87
+raha 5 92
